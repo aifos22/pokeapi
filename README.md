@@ -1,5 +1,4 @@
-⚡ PokeAPI Async Practice
-
+⚡ PokeAPI 
 Proyecto hecho en **JavaScript vanilla** para practicar **funciones asíncronas** (`async/await`) y el manejo de llamados a **APIs**, con renderizado dinámico de datos en el **DOM**. Usamos la [PokeAPI](https://pokeapi.co/) como fuente de datos para mostrar información de Pokémon.
 
 🔧 Funcionalidades
